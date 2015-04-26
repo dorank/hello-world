@@ -1,2 +1,4 @@
 # hello-world
-First take
+
+
+This is me learning GitHub and trying not to break things irrevocably. 
